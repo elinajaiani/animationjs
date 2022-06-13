@@ -1,0 +1,17 @@
+circlec{
+    overflow:hidden;
+  }
+  body {
+    background: #000;
+  }
+  circlec {
+    margin: auto;
+    width: 330px;
+    height: 330px;
+    border-radius: 50%;
+    top: calc(50% - 200px);
+    left: calc(50% - 200px);
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+  }
+
